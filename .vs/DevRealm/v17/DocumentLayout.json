@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Csharp\\Projects\\DevRealm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41486D08-D1E4-43C2-9BB6-90EE80F6D408}|backend\\DevRealm\\DevRealm.csproj|d:\\csharp\\projects\\devrealm\\backend\\devrealm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41486D08-D1E4-43C2-9BB6-90EE80F6D408}|backend\\DevRealm\\DevRealm.csproj|solutionrelative:backend\\devrealm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41486D08-D1E4-43C2-9BB6-90EE80F6D408}|backend\\DevRealm\\DevRealm.csproj|d:\\csharp\\projects\\devrealm\\backend\\devrealm\\services\\sqlitedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41486D08-D1E4-43C2-9BB6-90EE80F6D408}|backend\\DevRealm\\DevRealm.csproj|solutionrelative:backend\\devrealm\\services\\sqlitedbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41486D08-D1E4-43C2-9BB6-90EE80F6D408}|backend\\DevRealm\\DevRealm.csproj|d:\\csharp\\projects\\devrealm\\backend\\devrealm\\services\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41486D08-D1E4-43C2-9BB6-90EE80F6D408}|backend\\DevRealm\\DevRealm.csproj|solutionrelative:backend\\devrealm\\services\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41486D08-D1E4-43C2-9BB6-90EE80F6D408}|backend\\DevRealm\\DevRealm.csproj|d:\\csharp\\projects\\devrealm\\backend\\devrealm\\models\\snippet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41486D08-D1E4-43C2-9BB6-90EE80F6D408}|backend\\DevRealm\\DevRealm.csproj|solutionrelative:backend\\devrealm\\models\\snippet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41486D08-D1E4-43C2-9BB6-90EE80F6D408}|backend\\DevRealm\\DevRealm.csproj|d:\\csharp\\projects\\devrealm\\backend\\devrealm\\controllers\\snippetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41486D08-D1E4-43C2-9BB6-90EE80F6D408}|backend\\DevRealm\\DevRealm.csproj|solutionrelative:backend\\devrealm\\controllers\\snippetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Csharp\\Projects\\DevRealm\\backend\\DevRealm\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\DevRealm\\Program.cs",
+              "ToolTip": "D:\\Csharp\\Projects\\DevRealm\\backend\\DevRealm\\Program.cs",
+              "RelativeToolTip": "backend\\DevRealm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T21:38:15.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Snippet.cs",
+              "DocumentMoniker": "D:\\Csharp\\Projects\\DevRealm\\backend\\DevRealm\\Models\\Snippet.cs",
+              "RelativeDocumentMoniker": "backend\\DevRealm\\Models\\Snippet.cs",
+              "ToolTip": "D:\\Csharp\\Projects\\DevRealm\\backend\\DevRealm\\Models\\Snippet.cs",
+              "RelativeToolTip": "backend\\DevRealm\\Models\\Snippet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:42:56.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqliteDbService.cs",
+              "DocumentMoniker": "D:\\Csharp\\Projects\\DevRealm\\backend\\DevRealm\\Services\\SqliteDbService.cs",
+              "RelativeDocumentMoniker": "backend\\DevRealm\\Services\\SqliteDbService.cs",
+              "ToolTip": "D:\\Csharp\\Projects\\DevRealm\\backend\\DevRealm\\Services\\SqliteDbService.cs",
+              "RelativeToolTip": "backend\\DevRealm\\Services\\SqliteDbService.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAuwC4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:36:11.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDbService.cs",
+              "DocumentMoniker": "D:\\Csharp\\Projects\\DevRealm\\backend\\DevRealm\\Services\\IDbService.cs",
+              "RelativeDocumentMoniker": "backend\\DevRealm\\Services\\IDbService.cs",
+              "ToolTip": "D:\\Csharp\\Projects\\DevRealm\\backend\\DevRealm\\Services\\IDbService.cs",
+              "RelativeToolTip": "backend\\DevRealm\\Services\\IDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:36:03.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SnippetsController.cs",
+              "DocumentMoniker": "D:\\Csharp\\Projects\\DevRealm\\backend\\DevRealm\\Controllers\\SnippetsController.cs",
+              "RelativeDocumentMoniker": "backend\\DevRealm\\Controllers\\SnippetsController.cs",
+              "ToolTip": "D:\\Csharp\\Projects\\DevRealm\\backend\\DevRealm\\Controllers\\SnippetsController.cs",
+              "RelativeToolTip": "backend\\DevRealm\\Controllers\\SnippetsController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwEYAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T20:34:50.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

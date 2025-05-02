@@ -1,0 +1,6 @@
+@DevRealm_HostAddress = http://localhost:5260
+
+GET {{DevRealm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
